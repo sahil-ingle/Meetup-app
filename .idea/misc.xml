@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/background_chat_input.xml" value="0.1605" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/background_content_bottom.xml" value="0.1605" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/background_content_top.xml" value="0.1605" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/background_received_msg.xml" value="0.1605" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/background_sent_msg.xml" value="0.1605" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/bckground_content_bottom.xml" value="0.1775" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/ic_add.xml" value="0.1775" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/ic_logout.xml" value="0.1605" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/image_bg.xml" value="0.1775" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/drawable/input_bg.xml" value="0.2265" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_chat.xml" value="0.264" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_chess_users.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_coding_users.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_cricket_users.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_edit_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_football_users.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_info.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_interest.xml" value="0.2" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_password_reset.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_register.xml" value="0.2066115702479339" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_test.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/activity_users.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/dropdown_items.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/item_container_recent_conversion.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/item_container_recevied_msg.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/item_container_sent_msg.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/layout/item_container_user.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2265" />
+        <entry key="..\:/Users/ingle/AndroidStudioProjects/MEETUP/app/src/main/res/xml/interests.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
